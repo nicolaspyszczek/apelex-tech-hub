@@ -1,0 +1,3 @@
+DEMO DE PORTFOLIO — MODO INVITADO
+
+Esta copia web se extrajo de la APK 2.3.0 para demostración aislada. El puente nativo Android no está presente. El acceso Google/correo y la sincronización Firestore están deshabilitados en esta copia. Entrá como invitado; el progreso queda en el almacenamiento local del navegador. No se realizan acciones reales en Gmail, Jira, CRM ni en el sistema operativo.
